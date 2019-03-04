@@ -1,0 +1,47 @@
+newmtl initialShadingGroup
+Kd 0.75 0.75 0.75
+Ka 0 0 0
+
+
+newmtl lambert2SG
+Kd 0 0 0 
+Ka 0.1 0.1 0.1
+
+
+newmtl lambert3SG
+Kd 0 0 0
+Ka 0.1 0.1 0.1
+
+newmtl lambert4SG
+Kd 0 0 0 
+Ka 0.1 0.1 0.1
+
+newmtl lambert5SG
+Kd 0 0 0 
+Ka 0.1 0.1 0.1
+
+
+newmtl mia_material_x_passes1SG
+Kd 0.07 0.09 0.13
+d 0.2
+Ka 0 0 0
+
+
+newmtl mia_material_x_passes4SG
+Kd 0.07 0.09 0.13
+d 0.3
+Ka 0 0 0
+
+
+newmtl mia_material_x_passes2SG
+Kd 0.07 0.09 0.13
+d 0.5
+Ka 0 0 0
+
+
+newmtl mia_material_x_passes3SG
+Kd 0.07 0.09 0.13
+d 0.8
+Ka 0 0 0
+
+

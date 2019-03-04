@@ -1,0 +1,15 @@
+﻿  源.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+c:\users\xh\desktop\21721084 夏浩 cg作业\monte-carlo path tracing作业\monte-carlo pathtracing\monte-carlo ray tracer\Camera.h(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xh\desktop\21721084 夏浩 cg作业\monte-carlo path tracing作业\monte-carlo pathtracing\monte-carlo ray tracer\Camera.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\xh\desktop\21721084 夏浩 cg作业\monte-carlo path tracing作业\monte-carlo pathtracing\monte-carlo ray tracer\Camera.h(19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+源.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(142): warning C4838: 从“int”转换到“unsigned short”需要收缩转换
+源.cpp(147): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 520 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Monte-Carlo Ray Tracer.vcxproj -> C:\Users\xh\Desktop\21721084 夏浩 CG作业\Monte-Carlo Path Tracing作业\Monte-Carlo PathTracing\Release\Monte-Carlo Ray Tracer.exe

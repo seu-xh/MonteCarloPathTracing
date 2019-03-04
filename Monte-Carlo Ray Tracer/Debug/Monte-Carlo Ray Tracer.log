@@ -1,0 +1,10 @@
+﻿  Model.cpp
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(93): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(94): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(95): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xh\source\repos\monte-carlo ray tracer\monte-carlo ray tracer\model.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+  Monte-Carlo Ray Tracer.vcxproj -> C:\Users\xh\source\repos\Monte-Carlo Ray Tracer\Debug\Monte-Carlo Ray Tracer.exe
