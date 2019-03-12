@@ -11,4 +11,4 @@
 3.主要加速
 BVH的构造实现快速求交以及OpenMp实现cpu的并行
 
-<img src="https://github.com/seu-xh/MonteCarloPathTracing/blob/master/1.jpg" width=400 height=400>
+<img src="https://github.com/seu-xh/MonteCarloPathTracing/blob/master/1.jpg" width=300 height=300>
